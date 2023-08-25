@@ -7,7 +7,7 @@ Repositorio para armazenamento e resumos sobre Git e Github do caurso versioname
 - [Link-Git-Docs] {https://git-scm.com/docs}
 - [Link-GitHub]{https://github.com/}
 
-## "CRIANDO REPOSITORIO CONDIGO GITBASH"
+## "CRIANDO REPOSITORIO CODIGO GITBASH"
 …or create a new repository on the command line
 - echo "# nome-do-repositorio-criado" >> README.md
 - git init
@@ -21,4 +21,4 @@ Repositorio para armazenamento e resumos sobre Git e Github do caurso versioname
 ## PUSH OU PUBLICAR SEU REPOSITORIO NO GITHUB 
 - git remote add origin https://github.com/Vitorbingham/meu-projeto.git
 -git branch -M main
--git push -u origin main
+-git push -u origin main PUBLICAR REPOSITORIO
